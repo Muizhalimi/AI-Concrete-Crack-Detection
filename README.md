@@ -148,10 +148,10 @@ This makes the project easier to test and demonstrate without requiring advanced
 ![Confusion Matrix](screenshots/confusion_matrix_normalized.png)
 
 ### Precision-Recall Curve
-![PR Curve](screenshots/pr_curve.png)
+![PR Curve](screenshots/temp_pr_curve.png)
 
 ### F1 Score Curve
-![F1 Curve](screenshots/f1_curve.png)
+![F1 Curve](screenshots/temp_f1_curve.png)
 
 ## Video Crack Detection Example
 
